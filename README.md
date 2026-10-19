@@ -6,6 +6,7 @@ Under here are many different projects I have worked on.
 
 ### Project 1.) The Clock
 This was an attempt at a clock gif using Processing.
+
 <img width="634" height="662" alt="The Clock" src="https://github.com/user-attachments/assets/651d33d7-3a2c-424c-b236-eb434986022d" />
 
 ### Project 2.) Wing Dings 

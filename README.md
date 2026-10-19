@@ -14,3 +14,5 @@ This was a project I made where it created an HTML page showcasing my understand
 <img width="1891" height="965" alt="Screenshot 2026-10-12 144342" src="https://github.com/user-attachments/assets/33a63e09-0542-471a-a7da-493a363eafe6" />
 
 ### Project 3.) Confetti
+This was a project about showcasing understandings of different Java functions. 
+<img width="638" height="351" alt="Confetti Projecct" src="https://github.com/user-attachments/assets/d331db8d-c2a2-41fd-9a07-2c52be22430e" />
